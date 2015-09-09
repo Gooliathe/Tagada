@@ -1,0 +1,19 @@
+Cahier des charges initial:
+
+-Sur la base des prototypes existants:
+
+	*Une fonctionnalité supplémentaire de l'application permettant 
+	d'ajouter d'autres règles de corps mathématiques.
+
+	*Améliorer l'hergonomie
+
+-Option proposées:
+
+	*Editeur d'excercices
+	
+	*Stockage des constantes dans un fichier externe ( JSON XML?)
+
+	*Tutoriel
+
+	*Score
+
