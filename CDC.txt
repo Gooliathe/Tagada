@@ -18,3 +18,41 @@ Cahier des charges initial:
 	*Score
 
 	*Coup en arrière
+	
+Introduction
+
+Dans le cadre du projet court de Génie Logiciel, l'équipe Tagada se penchera sur l'amélioration du projet MagiCarpe, dérivé libre du jeu DragonBox. L'équipe sera notamment amenée à ajouter des fonctionnalités et à revoir l'interface de l'application.
+
+Étude de l'existant
+
+Le projet se base sur le jeu DragonBox, un jeu éducatif qui a la vocation de faciliter l'apprentissage de l'algèbre de manière intuitive et interactive aux enfants. Pour se faire, l'écran est séparé en deux parties représentant les deux parties de l'équation, et le joueur manipule des constantes et des variables sous la forme d'icônes dans le but de la résoudre.
+
+Le projet MagiCarpe est une adaptation libre de ce jeu. A ce stade du projet, il permet de résoudre des équations en utilisant addition, multiplication et division. Il manque cependant plusieurs éléments pour permettre à un enfant de comprendre le fonctionnement et le but du jeu, comme par exemple un tutoriel ou un menu principal.
+
+Étude des besoins
+
+Nos objectifs se divisent en plusieurs catégories :
+- compléter l'adaptation libre du système inventé par DragonBox, en intégrant l'ensemble des règles d'arithmétique de base : addition, division, multiplication et soustraction ;
+- ajouter un formalisme permettant d'effectuer des calculs logiques ;
+- améliorer l’ergonomie en ajoutant des menus, des explications et la possibilité de choisir un niveau ;
+- permettre à l'utilisateur de composer lui-même ses propres règles à partir des règles de base ;
+- l'application doit également être utilisable indifféremment sur un ordinateur (Windows, Linux) ou sur une tablette (Android).
+
+Étude de faisabilité
+
+//A remplir : faisabilité technologique (quelle technologie on va utiliser et pourquoi) et faisabilité économique (contrainte de temps)
+
+Analyse Préalable
+
+// ?
+
+Description détaillée des fonctions du programme
+
+//Comment marche le menu, les interfaces, le jeu en lui-même
+//Les contraintes de délai, les contraintes techniques
+
+Le menu principal doit permettre d'accéder aux différents modes de jeu : Le mode algèbre, le mode logique, le choix du niveau et l'éditeur de règles.
+Il donnera également accès à un menu d'options et au bouton pour mettre fin au programme.
+
+La fenêtre de jeu comprendra également un bouton pour revenir au menu principal, et un bouton pour redémarrer le niveau.
+Le programme se joue en glissant des cartes depuis la partie inférieure de l'écran jusque dans une des parties de l'écran afin de simplifier l'équation en cliquant dessus.
